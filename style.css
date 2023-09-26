@@ -1,0 +1,22 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffdd00;
+  margin: 10px 50px 10px 50px;
+  background-color: Ivory;
+  background-image: url("https://www.surfertoday.com/images/stories/andyirons33.jpg");
+}
+
+h1, h2 {
+  font-family: "Trirong", serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+
+}
+
+John {
+  float: left;
+  margin-right: 10px;
+}
